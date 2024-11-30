@@ -1,0 +1,58 @@
+﻿@model IEnumerable<TravelBookingSystem.Models.Bookings>
+
+    @{
+    ViewData["Title"] = "Bookings";
+    }
+
+    <h1>Bookings</h1>
+
+    <a href="@Url.Action("Create", "Bookings")" class="btn btn-primary">Create Booking</a>
+
+    @if (Model != null && Model.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>User Name</th>
+                <th>Destination</th>
+                <th>Booking Date</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var booking in Model)
+            {
+            <tr>
+                <td>@booking.UserName</td>
+                <td>
+                    @if (booking.Destination != null)
+                        {
+                    <span>@booking.Destination.Name</span>
+                        }
+                        else
+                        {
+                    <span>No Destination</span>
+                        }
+                </td>
+                <td>@booking.BookingDate.ToString("yyyy-MM-dd HH:mm")</td>
+                <td>
+                    <!-- Details button -->
+                    <a href="@Url.Action("Details", "Bookings", new { id = booking.BookingId })" class="btn btn-info">Details</a>
+
+
+                    <!-- Delete button -->
+                    <form action="@Url.Action("Delete", "Bookings", new { id = booking.BookingId })" method="post" style="display:inline;">
+                        @Html.AntiForgeryToken()
+                        <button type="submit" class="btn btn-danger" onclick="return confirm('Are you sure you want to delete this booking?')">Delete</button>
+                    </form>
+                </td>
+            </tr>
+            }
+        </tbody>
+    </table>
+}
+    
+else
+{
+    <p>No bookings available at the moment.</p>
+}

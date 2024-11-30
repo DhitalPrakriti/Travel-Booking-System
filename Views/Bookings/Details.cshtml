@@ -1,0 +1,16 @@
+﻿@model TravelBookingSystem.Models.Bookings
+
+@{
+    ViewData["Title"] = "Booking Details";
+}
+
+<h1>Booking Details</h1>
+
+<div>
+    <h3>Booking ID: @Model.BookingId</h3>
+    <p><strong>User Name:</strong> @Model.UserName</p>
+    <p><strong>Destination:</strong> @Model.Destination?.Name ?? "No Destination"</p>
+    <p><strong>Booking Date:</strong> @Model.BookingDate.ToString("yyyy-MM-dd HH:mm")</p>
+</div>
+
+<a href="@Url.Action("Index", "Bookings")" class="btn btn-secondary">Back to Bookings</a>

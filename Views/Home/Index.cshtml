@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4"> Book Your Next Trip  </h1>
+    <p>Your adventure begins here. Explore destinations and book your trips with ease.</p>
+    <!-- Add the image here -->
+    <img src="~/uploads/indeximage.jpg" alt="Travel Booking" class="img-fluid my-4" />
+
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core" target="_blank">building Web apps with ASP.NET Core</a>.</p>
+
+    <!-- Add link to send a test email -->
+    <div class="mt-4">
+        <a href="@Url.Action("SendTestEmail", "Home")" class="btn btn-primary">Send Test Email</a>
+    </div>
+</div>

@@ -1,0 +1,11 @@
+﻿@model TravelBookingSystem.Models.Destinations
+
+@{
+    ViewData["Title"] = "Destination Details";
+}
+
+<h1>@Model.Name</h1>
+<p>@Model.Description</p>
+<img src="@Model.ImagePath" alt="Image of @Model.Name" class="img-fluid" />
+<p>Location: @Model.Location</p>
+<p>Popularity: @Model.Popularity</p>

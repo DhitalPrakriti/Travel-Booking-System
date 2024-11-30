@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Models",
+    "\\Services",
+    "\\Views",
+    "\\Views\\Bookings",
+    "\\Views\\Destinations",
+    "\\Views\\Shared",
+    "\\wwwroot",
+    "\\wwwroot\\uploads"
+  ],
+  "PreviewInSolutionExplorer": false
+}

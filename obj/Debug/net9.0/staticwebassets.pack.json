@@ -1,0 +1,365 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\TravelBookingSystem.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TravelBookingSystem.ud60ztczuy.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\uploads\\bhaktapur.jpg",
+      "PackagePath": "staticwebassets\\uploads\\bhaktapur.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\uploads\\bhaktapur_20241124003338.jpg",
+      "PackagePath": "staticwebassets\\uploads\\bhaktapur_20241124003338.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\uploads\\cancun.jpg",
+      "PackagePath": "staticwebassets\\uploads\\cancun.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\uploads\\cancun_20241124003246.jpg",
+      "PackagePath": "staticwebassets\\uploads\\cancun_20241124003246.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\uploads\\cancun_20241126091335.jpg",
+      "PackagePath": "staticwebassets\\uploads\\cancun_20241126091335.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\uploads\\cancun_20241126123816.jpg",
+      "PackagePath": "staticwebassets\\uploads\\cancun_20241126123816.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\uploads\\cancun_20241126123837.jpg",
+      "PackagePath": "staticwebassets\\uploads\\cancun_20241126123837.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\uploads\\indeximage.jpg",
+      "PackagePath": "staticwebassets\\uploads\\indeximage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\uploads\\newyork.jpg",
+      "PackagePath": "staticwebassets\\uploads\\newyork.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\uploads\\newyork_20241124013201.jpg",
+      "PackagePath": "staticwebassets\\uploads\\newyork_20241124013201.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\uploads\\newyork_20241124013223.jpg",
+      "PackagePath": "staticwebassets\\uploads\\newyork_20241124013223.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\uploads\\newyork_20241124013450.jpg",
+      "PackagePath": "staticwebassets\\uploads\\newyork_20241124013450.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\uploads\\newyork_20241124015035.jpg",
+      "PackagePath": "staticwebassets\\uploads\\newyork_20241124015035.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\uploads\\newyork_20241124214447.jpg",
+      "PackagePath": "staticwebassets\\uploads\\newyork_20241124214447.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\uploads\\newyork_20241124214518.jpg",
+      "PackagePath": "staticwebassets\\uploads\\newyork_20241124214518.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\uploads\\newyork_20241124214530.jpg",
+      "PackagePath": "staticwebassets\\uploads\\newyork_20241124214530.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\uploads\\paris.jpg",
+      "PackagePath": "staticwebassets\\uploads\\paris.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\uploads\\paris_20241124013213.jpg",
+      "PackagePath": "staticwebassets\\uploads\\paris_20241124013213.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\uploads\\paris_20241124013432.jpg",
+      "PackagePath": "staticwebassets\\uploads\\paris_20241124013432.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\uploads\\paris_20241124230727.jpg",
+      "PackagePath": "staticwebassets\\uploads\\paris_20241124230727.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\TravelBookingSystem\\wwwroot\\uploads\\whistler_20241124230959.jpg",
+      "PackagePath": "staticwebassets\\uploads\\whistler_20241124230959.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.TravelBookingSystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.TravelBookingSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.TravelBookingSystem.props",
+      "PackagePath": "build\\TravelBookingSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.TravelBookingSystem.props",
+      "PackagePath": "buildMultiTargeting\\TravelBookingSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.TravelBookingSystem.props",
+      "PackagePath": "buildTransitive\\TravelBookingSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

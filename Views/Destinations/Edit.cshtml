@@ -1,0 +1,55 @@
+﻿@model TravelBookingSystem.Models.Destinations
+
+@{
+    ViewData["Title"] = "Edit Destination";
+}
+
+<h1>Edit Destination</h1>
+
+<form asp-action="Edit" method="post" enctype="multipart/form-data">
+    @Html.AntiForgeryToken()
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <input type="hidden" name="DestinationId" value="@Model.DestinationId" />
+
+    <div class="form-group">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Description" class="control-label"></label>
+        <textarea asp-for="Description" class="form-control"></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Location" class="control-label"></label>
+        <input asp-for="Location" class="form-control" />
+        <span asp-validation-for="Location" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Popularity" class="control-label"></label>
+        <input asp-for="Popularity" class="form-control" />
+        <span asp-validation-for="Popularity" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="ImagePath">Image</label>
+        <input type="file" class="form-control" id="ImagePath" name="ImagePath" />
+        @if (!string.IsNullOrEmpty(Model.ImagePath))
+        {
+        <p>Current Image: <img src="@Model.ImagePath" alt="Current Image" style="width: 100px; height: auto;" /></p>
+        }
+    </div>
+
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Save Changes</button>
+
+    </div>
+</form>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

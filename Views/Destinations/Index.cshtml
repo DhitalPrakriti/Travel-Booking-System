@@ -1,0 +1,60 @@
+﻿@model IEnumerable<TravelBookingSystem.Models.Destinations>
+
+    @{
+    ViewData["Title"] = "Destinations List";
+    }
+
+    <h1 class="text-center mb-4">@ViewData["Title"]</h1>
+
+    <!-- Container for the table -->
+    <div class="container">
+        <table class="table table-bordered table-striped">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Name</th>
+                    <th>Description</th>
+                    <th>Image</th>
+                    <th>Location</th>
+                    <th>Popularity</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var destination in Model)
+            {
+                <tr>
+                    <td>@destination?.Name</td>
+                    <td>@destination?.Description</td>
+                    <td>
+                        @if (!string.IsNullOrEmpty(destination?.ImagePath))
+                        {
+                            <!-- Display image if exists -->
+                        <img src="@destination.ImagePath" alt="Image of @destination.Name" style="width: 100px; height: auto;" />
+                        }
+                        else
+                        {
+ <!-- Placeholder image when no image path is found -->
+                        <img src="~/images/no-image-placeholder.png" alt="No Image" style="width: 100px; height: auto;" />
+                        }
+                    </td>
+                    <td>@destination?.Location</td>
+                    <td>@destination?.Popularity</td>
+                    <td>
+                        <!-- Action buttons for Edit, Details, Delete -->
+                        <a asp-action="Edit" asp-route-id="@destination.DestinationId" class="btn btn-warning btn-sm">Edit</a>
+                        <a asp-action="Details" asp-route-id="@destination.DestinationId" class="btn btn-info btn-sm">Details</a>
+                        <a asp-action="Delete" asp-route-id="@destination.DestinationId" class="btn btn-danger btn-sm"
+                           onclick="console.log('Deleting destination'); return confirm('Are you sure you want to delete this destination?');">
+                            Delete
+                        </a>
+                    </td>
+                </tr>
+            }
+            </tbody>
+        </table>
+
+        <!-- Button to add new destination -->
+        <div class="text-center">
+            <a asp-action="Create" class="btn btn-success">Add New Destination</a>
+        </div>
+    </div>

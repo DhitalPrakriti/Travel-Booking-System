@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "Send Test Email";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+@if (ViewData["EmailStatus"] != null)
+{
+<div class="alert alert-success">@ViewData["EmailStatus"]</div>
+}
+
+@if (ViewData["Error"] != null)
+{
+<div class="alert alert-danger">@ViewData["Error"]</div>
+}
+
+<form method="post" asp-action="SendTestEmail">
+    <div class="form-group">
+        <label for="toEmail">Recipient Email</label>
+        <input type="email" class="form-control" id="toEmail" name="toEmail" required />
+    </div>
+
+    <div class="form-group">
+        <label for="subject">Subject</label>
+        <input type="text" class="form-control" id="subject" name="subject" required />
+    </div>
+
+    <div class="form-group">
+        <label for="body">Body</label>
+        <textarea class="form-control" id="body" name="body" rows="4" required></textarea>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Send Email</button>
+</form>
